@@ -18,6 +18,10 @@
   "homepage": "https://github.com/ann-leonard/liri-node-app#readme",
   "dependencies": {
     "axios": "^0.18.0",
-    "spotify-web-api-js": "^1.2.0"
+    "bandsintown": "^1.0.1",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7",
+    "spotify-web-api-js": "^1.2.0",
+    "states-abbreviations": "^1.0.0"
   }
 }
